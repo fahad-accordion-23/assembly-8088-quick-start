@@ -13,6 +13,7 @@ A streamlined environment for writing, compiling, and debugging 8088 assembly (.
 No setup required. Download the repository and run DOSBox using the shortcut. 
 
 ## Usage
+- Run DOSBox from the DOSBOX directory.
 - Use `edit` to open the MS-DOS editor for writing .asm files.
 - To compile and debug an assembly file (e.g., `q1.asm`):
   ```bash
