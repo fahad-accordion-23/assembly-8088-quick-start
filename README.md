@@ -10,7 +10,7 @@ A streamlined environment for writing, compiling, and debugging 8088 assembly (.
 - **DOSBOX**: DOSBox executable with pre-configured `dosbox.conf`.
 
 ## Setup
-No setup required. Download the repository and run DOSBox using the shortcut. 
+No setup required. Download the repository and run DOSBox from the DOSBOX directory.
 
 ## Usage
 - Run DOSBox from the DOSBOX directory.
